@@ -35,7 +35,7 @@ Step 3:
 ![alt text](../Talend/Images/DelimitedStep3.png)
 
 Step 4: About the Schema
-![alt text](../Talend/Images/DelimitedStep3.png)
+![alt text](../Talend/Images/Delimited%20Step4.png)
 
 Note: 
 Assume the lengthe of any column is 3, but the row value for that column is 4 -> it wont take
